@@ -1,0 +1,75 @@
+
+|    |                            |                                                                                                                                                                              |
+|---:|:---------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  0 | Form 144 Filer Information | UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 144 NOTICE OF PROPOSED SALE OF SECURITIES PURSUANT TO RULE 144 UNDER THE SECURITIES ACT OF 1933 |
+|  1 | FORM 144                   |                                                                                                                                                                              |
+
+
+144: Filer Information
+
+|    |                                |            |
+|---:|:-------------------------------|:-----------|
+|  0 | Filer CIK                      | 0002006041 |
+|  1 | Filer CCC                      | XXXXXXXX   |
+|  2 | Is this a LIVE or TEST Filing? | LIVE TEST  |
+|  3 | Submission Contact Information |            |
+|  4 | Name                           |            |
+|  5 | Phone                          |            |
+|  6 | E-Mail Address                 |            |
+ 
+144: Issuer Information
+
+|    |                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                    |
+|---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|
+|  0 | Name of Issuer                                                                                                                                                                                                                                                                                                                                                                                                                         | NEXTERA ENERGY INC                                 |
+|  1 | SEC File Number                                                                                                                                                                                                                                                                                                                                                                                                                        | 001-08841                                          |
+|  2 | Address of Issuer                                                                                                                                                                                                                                                                                                                                                                                                                      | 700 UNIVERSE BLVDJUNO BEACH FLORIDA 33408          |
+|  3 | Phone                                                                                                                                                                                                                                                                                                                                                                                                                                  | 561-694-4697                                       |
+|  4 | Name of Person for Whose Account the Securities are To Be Sold                                                                                                                                                                                                                                                                                                                                                                         | Daggs Nicole J                                     |
+|  5 | See the definition of "person" in paragraph (a) of Rule 144. Information is to be given not only as to the person for whose account the securities are to be sold but also as to all other persons included in that definition. In addition, information shall be given as to sales by all persons whose sales are required by paragraph (e) of Rule 144 to be aggregated with sales for the account of the person filing this notice. |                                                    |
+|  6 | Relationship to Issuer                                                                                                                                                                                                                                                                                                                                                                                                                 | Member of immediate family of any of the foregoing |
+
+144: Securities Information
+
+
+|    |                                             |                                                                        |                                            |                        |                                             |                          |                              |
+|---:|:--------------------------------------------|:-----------------------------------------------------------------------|:-------------------------------------------|:-----------------------|:--------------------------------------------|:-------------------------|:-----------------------------|
+|  0 | Title of the Class of Securities To Be Sold | Name and Address of the Broker                                         | Number of Shares or Other Units To Be Sold | Aggregate Market Value | Number of Shares or Other Units Outstanding | Approximate Date of Sale | Name the Securities Exchange |
+|  1 | Common                                      | Fidelity Brokerage Services LLC900 Salem StreetSmithfield � RI � 02917 | 658                                        | 50646.33               | 2055353601                                  | 08/01/2024               | NYSE                         |
+
+ Furnish the following information with respect to the acquisition of the securities to be sold and with respect to the payment of all or any part of the purchase price or other consideration therefor: 
+
+144: Securities To Be Sold
+
+
+|    |                    |                   |                                   |                                   |                 |                     |                               |                 |                     |
+|---:|:-------------------|:------------------|:----------------------------------|:----------------------------------|:----------------|:--------------------|:------------------------------|:----------------|:--------------------|
+|  0 | Title of the Class | Date you Acquired | Nature of Acquisition Transaction | Name of Person from Whom Acquired | Is this a Gift? | Date Donor Acquired | Amount of Securities Acquired | Date of Payment | Nature of Payment * |
+|  1 | Common             | 02/14/2019        | Restricted Stock Vesting          | Issuer                            |                 |                     | 658                           | 02/14/2019      | Compensation        |
+
+* If the securities were purchased and full payment therefor was not made in cash at the time of purchase, explain in the table or in a note thereto the nature of the consideration given. If the consideration consisted of any note or other obligation, or if payment was made in installments describe the arrangement and state when the note or other obligation was discharged in full or the last installment paid. 
+
+
+
+
+ Furnish the following information as to all securities of the issuer sold during the past 3 months by the person for whose account the securities are to be sold. 
+
+144: Securities Sold During The Past 3 Months
+
+
+|    |                   |
+|---:|:------------------|
+|  0 | Nothing to Report |
+
+
+144: Remarks and Signature
+
+|    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                        |
+|---:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
+|  0 | Remarks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | The sale today took place in the account of Dorian Daggs, who is the spouse of Nicole Daggs who is an officer/director of the company. |
+|  1 | Date of Notice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 08/01/2024                                                                                                                             |
+|  2 | ATTENTION:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                        |
+|  3 | The person for whose account the securities to which this notice relates are to be sold hereby represents by signing this notice that he does not know any material adverse information in regard to the current and prospective operations of the Issuer of the securities to be sold which has not been publicly disclosed. If such person has adopted a written trading plan or given trading instructions to satisfy Rule 10b5-1 under the Exchange Act, by signing the form and indicating the date that the plan was adopted or the instruction given, that person makes such representation as of the plan adoption or instruction date. |                                                                                                                                        |
+|  4 | Signature                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | /S/ Adam Gehring, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Nicole Daggs         |
+|  5 | ATTENTION: Intentional misstatements or omission of facts constitute Federal Criminal Violations (See 18 U.S.C. 1001)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                        |
+
